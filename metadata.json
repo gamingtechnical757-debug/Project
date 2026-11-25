@@ -1,0 +1,6 @@
+{
+  "name": "KSHyPixel Network",
+  "description": "Official website for KSHyPixel Network — Survival, SkyBlock, PvP & BedWars-style Minecraft network for Java and Bedrock Editions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
